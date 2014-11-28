@@ -1,4 +1,4 @@
-NGS_analysis_icipe
+Bioinformatics approaches to NGS analysis
 ==================
 
 Course materials for the NGS analysis course run at icipe, Nairobi.
@@ -6,6 +6,7 @@ Course materials for the NGS analysis course run at icipe, Nairobi.
 Course Programme
 Bioinformatics approaches for NGS  analysis course, ICIPE, Nairobi, 24-28 November 2014.
  
+Instructors:  
  
 
 ### Monday
@@ -13,10 +14,10 @@ Bioinformatics approaches for NGS  analysis course, ICIPE, Nairobi, 24-28 Novemb
 | Time          | Subject                                           |     |
 |---------------|------------------------------------------------|-----|
 | 0845 - 0915hrs| Introductions and Welcome                             | DM, JA  |
-| 0915 - 1000hrs| [Overview of different types of next generation sequencing]() | AF  |
+| 0915 - 1000hrs| Overview of different types of next generation sequencing | AF  |
 | 1000 - 1040hrs| [Introduction to genomics experimental design](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/Experimental%20design%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
 |               | Break                                          |     |
-| 1100 - 1300hrs| [Introduction to R]() | JA  |
+| 1100 - 1300hrs| [Introduction to R](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/R%20introduction%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
 |               | Lunch                                          |     |
 | 1400 - 1530hrs| [R data structures]() | JA  |
 |               | Break                                          |     |
