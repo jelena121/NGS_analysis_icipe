@@ -6,16 +6,23 @@ Course materials for the NGS analysis course run at icipe, Nairobi.
 Course Programme
 Bioinformatics approaches for NGS  analysis course, ICIPE, Nairobi, 24-28 November 2014.
  
-Monday:
-0845 - 0915hrs               Introductions and Welcome
-0915 - 1000hrs         	Overview of different types of next generation sequencing (Anne Fischer)
-1000 - 1040hrs         	Introduction to genomics experimental design (Jelena Aleksic)
-1040 - 1100hrs               Tea/coffee break
-1100 - 1300hrs         	Practical - Introduction to R  (Jelena Aleksic)
-1300 - 1400hrs               Lunch and networking
-1400 - 1530hrs         	Practical - Programming in R  (Jelena Aleksic)
-1530 - 1600hrs               Tea/coffee break
-1600 - 1730hrs         	Small groups project time
+ 
+
+### Monday
+
+| When          | What                                           |     |
+|---------------|------------------------------------------------|-----|
+| 0845 - 0915hrs| Introductions and Welcome                             | DM, JA  |
+| 0915 - 1000hrs| [Overview of different types of next generation sequencing]() | AF  |
+| 1000 - 1040hrs| [Introduction to genomics experimental design]() | JA  |
+|               | Break                                          |     |
+| 1100 - 1300hrs| [Introduction to R]() | JA  |
+|               | Lunch                                          |     |
+| 1400 - 1530hrs| [R data structures]() | JA  |
+|               | Break                                          |     |
+| 1600 - 1730hrs| Small groups project time |   |
+
+
  
 Tuesday:
 0900 - 0945hrs         	Introduction to NGS analysis methods (Richard Smith-Unna)
