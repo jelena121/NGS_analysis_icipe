@@ -33,7 +33,7 @@ Instructors:
 |               | Break                                          |     |
 | 1100 - 1300hrs| [R graphics]() | JA  |
 |               | Lunch                                          |     |
-| 1400 - 1530hrs| [Unix basics]() | JA  |
+| 1400 - 1530hrs| [Unix basics]() | RSU  |
 |               | Break                                          |     |
 | 1600 - 1730hrs| Small groups project time |   |
 | 1900hrs| Course dinner |   |
@@ -76,7 +76,7 @@ Instructors:
 |               | Break                                          |     |
 | 1100 - 1300hrs| [Population genomics and cross species comparisons]() | SM, AF |
 |               | Lunch                                          |     |
-| 1400 - 1530hrs| [Population genomics (continued)]() | NW  |
+| 1400 - 1530hrs| [Population genomics (continued)]() | SM, AF  |
 |               | Break                                          |     |
 | 1600 - 1640hrs| Student presentations about research projects |   |
 | 1640 - 1730hrs| Course discussions, certificate presentation and vote of thanks |   |
