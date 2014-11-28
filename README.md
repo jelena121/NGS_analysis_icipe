@@ -14,7 +14,7 @@ Bioinformatics approaches for NGS  analysis course, ICIPE, Nairobi, 24-28 Novemb
 |---------------|------------------------------------------------|-----|
 | 0845 - 0915hrs| Introductions and Welcome                             | DM, JA  |
 | 0915 - 1000hrs| [Overview of different types of next generation sequencing]() | AF  |
-| 1000 - 1040hrs| [Introduction to genomics experimental design]() | JA  |
+| 1000 - 1040hrs| [Introduction to genomics experimental design](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/Experimental%20design%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
 |               | Break                                          |     |
 | 1100 - 1300hrs| [Introduction to R]() | JA  |
 |               | Lunch                                          |     |
