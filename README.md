@@ -7,13 +7,13 @@ Course Programme
 Bioinformatics approaches for NGS  analysis course, ICIPE, Nairobi, 24-28 November 2014.
  
 Instructors:  
- Jelena Aleksic (University of Cambridge)
- Benard Kulohoma (icipe)
- Anne Fischer (icipe)
- Richard Smith (University of Cambridge)
- Simon Martin (university of Cambridge)
- Nicola Whiffin (Imperial College London)
- Christopher Yates (UCL)
+Jelena Aleksic (University of Cambridge)
+Benard Kulohoma (icipe)
+Anne Fischer (icipe)
+Richard Smith (University of Cambridge)
+Simon Martin (university of Cambridge)
+Nicola Whiffin (Imperial College London)
+Christopher Yates (UCL)
 
 ### Monday
 
