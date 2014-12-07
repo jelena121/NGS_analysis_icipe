@@ -10,7 +10,7 @@ Instructors:
 * Jelena Aleksic (University of Cambridge)
 * Benard Kulohoma (icipe)
 * Anne Fischer (icipe)
-* Richard Smith (University of Cambridge)
+* Richard Smith-Unna (University of Cambridge)
 * Simon Martin (university of Cambridge)
 * Nicola Whiffin (Imperial College London)
 * Christopher Yates (UCL)
