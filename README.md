@@ -54,7 +54,7 @@ Instructors:
 |               | Break                                          |     |
 | 1100 - 1300hrs| [De novo sequence assembly](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%203/Assembly%20practica%20-%20Benard%20Kulohoma.pdf?raw=true) | BK, RSU  |
 |               | Lunch                                          |     |
-| 1400 - 1530hrs| [RNAseq differential expression analysis]() | JA  |
+| 1400 - 1530hrs| [RNAseq differential expression analysis](https://github.com/jelena121/NGS_analysis_icipe/tree/master/day%203/RNAseq_practical) | JA  |
 |               | Break                                          |     |
 | 1600 - 1730hrs| Small groups project time |   |
 
@@ -63,12 +63,12 @@ Instructors:
 
 | Time          | Subject                                           |     |
 |---------------|------------------------------------------------|-----|
-| 0900 - 0945hrs| [Variant calling for disease diagnostics]() | NW  |
-| 0945 - 1030hrs| [Introduction to GWAS and meta-analyses]() | NW  |
+| 0900 - 0945hrs| [Variant calling for disease diagnostics](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%204/Variant%20Calling%20-%20Nicola%20Whiffin.pdf?raw=true) | NW  |
+| 0945 - 1030hrs| [Introduction to GWAS and meta-analyses](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%204/GWAS%2C%20meta-analysis%20and%20imputation%20-%20Nicola%20Whiffin.pdf) | NW  |
 |               | Break                                          |     |
-| 1100 - 1230hrs| [Variant filtering and annotation]() | NW |
+| 1100 - 1230hrs| [Variant filtering and annotation](https://github.com/jelena121/NGS_analysis_icipe/tree/master/day%204/FilteringAnnotationPractical) | NW |
 |               | Lunch                                          |     |
-| 1330 - 1430hrs| [Quality control of GWAS data]() | NW  |
+| 1330 - 1430hrs| [Quality control of GWAS data](https://github.com/jelena121/NGS_analysis_icipe/tree/master/day%204/GWASPractical) | NW  |
 |               | Break                                          |     |
 | 1500 - 1600hrs| Guest lecture: Joy Owango from [TCC](http://www.tcc-africa.org/tcc/) |   |
 | 1600 - 1730hrs| Small groups project time |   |
@@ -77,12 +77,13 @@ Instructors:
 
 | Time          | Subject                                           |     |
 |---------------|------------------------------------------------|-----|
-| 0900 - 0945hrs| [Comparative and phylo-genomics]() | SM  |
-| 0945 - 1030hrs| [Evolutionary and population genomics]() | SM  |
+| 0900 - 0945hrs| [Comparative and phylogenomics](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%205/Comparative_and_Phylogenomics.pdf?raw=true) | SM  |
+| 0945 - 1030hrs| [Evolutionary and population genomics](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%205/Population_Genomics.pdf?raw=true) | SM  |
 |               | Break                                          |     |
-| 1100 - 1300hrs| [Population genomics and cross species comparisons]() | SM, AF |
+| 1100 - 1200hrs| [Population genomics - RAD gene flow tutorial](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%205/RAD_gene_flow_tutorial.tar.gz?raw=true) | SM, AF |
+| 1100 - 1200hrs| [Population genomics - sliding windows tutorial](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%205/sliding_windows_tutorial.tar.gz?raw=true) | SM, AF |
 |               | Lunch                                          |     |
-| 1400 - 1530hrs| [Population genomics (continued)]() | SM, AF  |
+| 1400 - 1530hrs| [gglot2 practica](http://www.ling.upenn.edu/~joseff/avml2012/) | RSU  |
 |               | Break                                          |     |
 | 1600 - 1640hrs| Student presentations about research projects |   |
 | 1640 - 1730hrs| Course discussions, certificate presentation and vote of thanks |   |
