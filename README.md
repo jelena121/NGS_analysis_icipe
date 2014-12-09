@@ -20,12 +20,12 @@ Instructors:
 | Time          | Subject                                           |     |
 |---------------|------------------------------------------------|-----|
 | 0845 - 0915hrs| Introductions and Welcome                             | DM, JA  |
-| 0915 - 1000hrs| Overview of different types of next generation sequencing | AF  |
+| 0915 - 1000hrs| [Overview of different types of next generation sequencing](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/SequencingTechs.pdf?raw=true) | AF  |
 | 1000 - 1040hrs| [Introduction to genomics experimental design](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/Experimental%20design%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
 |               | Break                                          |     |
 | 1100 - 1300hrs| [Introduction to R](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/R%20introduction%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
 |               | Lunch                                          |     |
-| 1400 - 1530hrs| [R data structures]() | JA  |
+| 1400 - 1530hrs| [R data structures](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/R%20data%20structures%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
 |               | Break                                          |     |
 | 1600 - 1730hrs| Small groups project time |   |
 
@@ -34,12 +34,12 @@ Instructors:
 
 | Time          | Subject                                           |     |
 |---------------|------------------------------------------------|-----|
-| 0900 - 0945hrs| [Introduction to NGS analysis methods]() | RSU  |
-| 0945 - 1030hrs| [Approaches to sequence mapping and genotyping]() | SM  |
+| 0900 - 0945hrs| [Introduction to NGS analysis methods](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%202/Intro%20to%20NGS%20analysis%20-%20Richard%20Smith.pdf?raw=true) | RSU  |
+| 0945 - 1030hrs| [Approaches to sequence mapping and genotyping](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%202/Mapping_and_Genotyping_Approaches.pdf?raw=true) | SM  |
 |               | Break                                          |     |
-| 1100 - 1300hrs| [R graphics]() | JA  |
+| 1100 - 1300hrs| [R graphics](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%202/R%20graphics%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
 |               | Lunch                                          |     |
-| 1400 - 1530hrs| [Unix basics]() | RSU  |
+| 1400 - 1530hrs| [Unix basics](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%202/unix_primer.pdf?raw=true) | RSU  |
 |               | Break                                          |     |
 | 1600 - 1730hrs| Small groups project time |   |
 | 1900hrs| Course dinner |   |
@@ -49,10 +49,10 @@ Instructors:
 
 | Time          | Subject                                           |     |
 |---------------|------------------------------------------------|-----|
-| 0900 - 0945hrs| [De novo sequence assembly]() | BK  |
-| 0945 - 1030hrs| [Approaches to transcriptome analysis]() | JA  |
+| 0900 - 0945hrs| [De novo sequence assembly](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%203/Assembly%20-%20Benard%20Kulohoma.pdf?raw=true) | BK  |
+| 0945 - 1030hrs| [Approaches to transcriptome analysis](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%203/Transcriptome%20analysis%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
 |               | Break                                          |     |
-| 1100 - 1300hrs| [De novo sequence assembly]() | BK, RSU  |
+| 1100 - 1300hrs| [De novo sequence assembly](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%203/Assembly%20practica%20-%20Benard%20Kulohoma.pdf?raw=true) | BK, RSU  |
 |               | Lunch                                          |     |
 | 1400 - 1530hrs| [RNAseq differential expression analysis]() | JA  |
 |               | Break                                          |     |
