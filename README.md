@@ -83,7 +83,7 @@ Instructors:
 | 1100 - 1200hrs| [Population genomics - RAD gene flow tutorial](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%205/RAD_gene_flow_tutorial.tar.gz?raw=true) | SM, AF |
 | 1100 - 1200hrs| [Population genomics - sliding windows tutorial](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%205/sliding_windows_tutorial.tar.gz?raw=true) | SM, AF |
 |               | Lunch                                          |     |
-| 1400 - 1530hrs| [gglot2 practica](http://www.ling.upenn.edu/~joseff/avml2012/) | RSU  |
+| 1400 - 1530hrs| [gglot2 practical](http://www.ling.upenn.edu/~joseff/avml2012/) | RSU  |
 |               | Break                                          |     |
 | 1600 - 1640hrs| Student presentations about research projects |   |
 | 1640 - 1730hrs| Course discussions, certificate presentation and vote of thanks |   |
