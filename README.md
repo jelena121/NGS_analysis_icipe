@@ -3,10 +3,10 @@ Bioinformatics approaches to NGS analysis
 
 Course materials for the NGS analysis course run at icipe, Nairobi.
 
-The main course webpage is [here](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/SequencingTechs.pdf?raw=true).
+The main course webpage is [here](http://41.57.109.242/zoonotic/Sites/bioinfo/index.html).
 
 Course Programme
-Bioinformatics approaches for NGS  analysis course, ICIPE, Nairobi, 24-28 November 2014.
+Bioinformatics approaches for NGS  analysis course, ICIPE, Nairobi, 30th Nov -  2014.
  
 Instructors:  
 * Jelena Aleksic (TReND in Africa)
