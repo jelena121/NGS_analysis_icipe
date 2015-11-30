@@ -3,29 +3,33 @@ Bioinformatics approaches to NGS analysis
 
 Course materials for the NGS analysis course run at icipe, Nairobi.
 
+The main course webpage is [here](http://41.57.109.242/zoonotic/Sites/bioinfo/index.html).
+
 Course Programme
-Bioinformatics approaches for NGS  analysis course, ICIPE, Nairobi, 24-28 November 2014.
+Bioinformatics approaches for NGS  analysis course, ICIPE, Nairobi, 30th Nov -  2014.
  
 Instructors:  
-* Jelena Aleksic (University of Cambridge)
+* Jelena Aleksic (TReND in Africa)
 * Benard Kulohoma (icipe)
-* Anne Fischer (icipe)
+* Mark Wamalwa (BecA-ILRI Hub, Nairobi, Kenya)
 * Richard Smith-Unna (University of Cambridge)
 * Simon Martin (university of Cambridge)
-* Nicola Whiffin (Imperial College London)
-* Christopher Yates (UCL)
+* Risha Govind (Imperial College London)
+* Rosaline Macharia icipe, Nairobi, Kenya)
+* Kelvin Muteru (icipe)
+* Sarah Hoey (Mendeley)
 
 ### Monday
 
 | Time          | Subject                                           |     |
 |---------------|------------------------------------------------|-----|
-| 0845 - 0915hrs| Introductions and Welcome                             | DM, JA  |
-| 0915 - 1000hrs| [Overview of different types of next generation sequencing](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/SequencingTechs.pdf?raw=true) | AF  |
-| 1000 - 1040hrs| [Introduction to genomics experimental design](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/Experimental%20design%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
+| 0845 - 0915hrs| Introductions and Welcome                             | BK, JA  |
+| 0915 - 1000hrs| [Introduction to big data](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/SequencingTechs.pdf?raw=true) | RM  |
+| 1000 - 1040hrs| [Overview of different types of next generation sequencing](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/Experimental%20design%20-%20Jelena%20Aleksic.pdf?raw=true) | KM  |
 |               | Break                                          |     |
-| 1100 - 1300hrs| [Introduction to R](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/R%20introduction%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
+| 1100 - 1300hrs| [Unix basics](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/R%20introduction%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
 |               | Lunch                                          |     |
-| 1400 - 1530hrs| [R data structures](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/R%20data%20structures%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
+| 1400 - 1530hrs| [Introduction to R](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/R%20data%20structures%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
 |               | Break                                          |     |
 | 1600 - 1730hrs| Small groups project time |   |
 
