@@ -2,18 +2,19 @@ Bioinformatics approaches to NGS analysis
 ==================
 
 Course materials for the NGS analysis course run at icipe, Nairobi.
+The main course webpage is [here](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/SequencingTechs.pdf?raw=true)
 
 Course Programme
 Bioinformatics approaches for NGS  analysis course, ICIPE, Nairobi, 24-28 November 2014.
  
 Instructors:  
-* Jelena Aleksic (University of Cambridge)
+* Jelena Aleksic (TReND in Africa)
 * Benard Kulohoma (icipe)
-* Anne Fischer (icipe)
+* Kelvin Muteru (icipe)
 * Richard Smith-Unna (University of Cambridge)
 * Simon Martin (university of Cambridge)
-* Nicola Whiffin (Imperial College London)
-* Christopher Yates (UCL)
+* Risha Govind (Imperial College London)
+* Sarah Hoey (Mendeley)
 
 ### Monday
 
