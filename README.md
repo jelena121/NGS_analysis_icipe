@@ -11,10 +11,12 @@ Bioinformatics approaches for NGS  analysis course, ICIPE, Nairobi, 30th Nov -  
 Instructors:  
 * Jelena Aleksic (TReND in Africa)
 * Benard Kulohoma (icipe)
-* Kelvin Muteru (icipe)
+* Mark Wamalwa (BecA-ILRI Hub, Nairobi, Kenya)
 * Richard Smith-Unna (University of Cambridge)
 * Simon Martin (university of Cambridge)
 * Risha Govind (Imperial College London)
+* Rosaline Macharia icipe, Nairobi, Kenya)
+* Kelvin Muteru (icipe)
 * Sarah Hoey (Mendeley)
 
 ### Monday
