@@ -7,12 +7,12 @@ The main course webpage is [here](http://41.57.109.242/zoonotic/Sites/bioinfo/in
 
 Course Programme
 Bioinformatics approaches for NGS  analysis course, ICIPE, Nairobi, 30th Nov -  2014.
- 
+
 Instructors:  
 * Jelena Aleksic (TReND in Africa)
 * Benard Kulohoma (icipe)
 * Mark Wamalwa (BecA-ILRI Hub, Nairobi, Kenya)
-* Richard Smith-Unna (University of Cambridge)
+* Richard Smith-Unna (University of Cambridge) [@blahah404](http://twitter.com/blahah404)
 * Simon Martin (university of Cambridge)
 * Risha Govind (Imperial College London)
 * Rosaline Macharia icipe, Nairobi, Kenya)
