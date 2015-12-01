@@ -23,13 +23,13 @@ Instructors:
 
 | Time          | Subject                                           |     |
 |---------------|------------------------------------------------|-----|
-| 0845 - 0915hrs| Introductions and Welcome                             | BK, JA  |
-| 0915 - 1000hrs| [Introduction to big data](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/SequencingTechs.pdf?raw=true) | RM  |
-| 1000 - 1040hrs| [Overview of different types of next generation sequencing](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/Experimental%20design%20-%20Jelena%20Aleksic.pdf?raw=true) | KM  |
+| 0845 - 0915hrs| [Introductions and Welcome](https://github.com/jelena121/NGS_analysis_icipe/raw/master/day%201/Welcome_note_ICIPE_NGS_course.ppt)                             | BK, JA  |
+| 0915 - 1000hrs| [Introduction to big data](https://github.com/jelena121/NGS_analysis_icipe/raw/master/day%201/intro_to_big_data_3o_Nov.pdf) | RM  |
+| 1000 - 1040hrs| [Overview of different types of next generation sequencing](https://github.com/jelena121/NGS_analysis_icipe/raw/master/day%201/NGS_Kelvin_26_11_2015.pptx) | KM  |
 |               | Break                                          |     |
 | 1100 - 1300hrs| [Unix basics](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/R%20introduction%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
 |               | Lunch                                          |     |
-| 1400 - 1530hrs| [Introduction to R](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%201/R%20data%20structures%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
+| 1400 - 1530hrs| [Introduction to R](https://github.com/jelena121/NGS_analysis_icipe/raw/master/day%201/R%20introduction%20-%20Jelena%20Aleksic.pdf) | JA  |
 |               | Break                                          |     |
 | 1600 - 1730hrs| Small groups project time |   |
 
