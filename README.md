@@ -69,27 +69,24 @@ Instructors:
 
 | Time          | Subject                                           |     |
 |---------------|------------------------------------------------|-----|
-| 0900 - 0945hrs| [Variant calling for disease diagnostics]() | NW  |
-| 0945 - 1030hrs| [Introduction to GWAS and meta-analyses]() | NW  |
+| 0900 - 0945hrs| [De novo sequence assembly ]() | RSU  |
+| 0945 - 1030hrs| [Plant synthetic biology ]() | RSU  |
 |               | Break                                          |     |
-| 1100 - 1230hrs| [Variant filtering and annotation]() | NW |
+| 1100 - 1300hrs| [Practical: De novo sequence assembly]() | BK |
 |               | Lunch                                          |     |
-| 1330 - 1430hrs| [Quality control of GWAS data]() | NW  |
+| 1400 - 1530hrs| [Practical: Data visualisation in R using ggplot2]() | RSU  |
 |               | Break                                          |     |
-| 1500 - 1600hrs| Guest lecture: Joy Owango from [TCC]() |   |
 | 1600 - 1730hrs| Small groups project time |   |
 
 ### Friday
 
 | Time          | Subject                                           |     |
 |---------------|------------------------------------------------|-----|
-| 0900 - 0945hrs| [Comparative and phylogenomics](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%205/Comparative_and_Phylogenomics.pdf?raw=true) | SM  |
-| 0945 - 1030hrs| [Evolutionary and population genomics](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%205/Population_Genomics.pdf?raw=true) | SM  |
+| 0900 - 0930hrs| [Introduction to GWAS and Variant Calling]) | RG  |
+| 0930 - 1030hrs| [Practical: From raw reads to aligned data]() | RG  |
 |               | Break                                          |     |
-| 1100 - 1200hrs| [Population genomics - RAD gene flow tutorial](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%205/RAD_gene_flow_tutorial.tar.gz?raw=true) | SM, AF |
-| 1100 - 1200hrs| [Population genomics - sliding windows tutorial](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%205/sliding_windows_tutorial.tar.gz?raw=true) | SM, AF |
+| 1100 - 1200hrs| [Practical: From aligned data to Variants called]() | RG |
 |               | Lunch                                          |     |
-| 1400 - 1530hrs| [gglot2 practical](http://www.ling.upenn.edu/~joseff/avml2012/) | RSU  |
+| 1400 - 1530hrs| [Practical: Filtering Variants]() | RG  |
 |               | Break                                          |     |
-| 1600 - 1640hrs| Student presentations about research projects |   |
-| 1640 - 1730hrs| Course discussions, certificate presentation and vote of thanks |   |
+| 1600 - 1730hrs| Small groups project time |   |
