@@ -90,3 +90,17 @@ Instructors:
 | 1400 - 1530hrs| [Practical: Filtering Variants]() | RG  |
 |               | Break                                          |     |
 | 1600 - 1730hrs| Small groups project time |   |
+
+### Saturday
+
+| Time          | Subject                                           |     |
+|---------------|------------------------------------------------|-----|
+| 0900 - 0945hrs| [Evolutionary genomics analysis approaches]) | SM  |
+| 0945 - 1030hrs| [Introduction to comparative genomics approaches]() | SM  |
+|               | Break                                          |     |
+| 1100 - 1200hrs| [Practical: Multiple sequence alignment and cross species comparisons]() | SM |
+|               | Lunch                                          |     |
+| 1230 - 1400hrs| [Practical: Population genetics]() | SM  |
+| 1400 - 1500hrs| [Student presentations about research projects. 10 mins per group for presentation and questions.]() |  |
+|               | Break                                          |     |
+| 1530 - 1600hrs| Informal course discussions and certificate presentation and vote of thanks! |   |
