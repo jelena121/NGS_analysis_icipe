@@ -38,56 +38,69 @@ Instructors:
 
 | Time          | Subject                                           |     |
 |---------------|------------------------------------------------|-----|
-| 0900 - 0945hrs| [Introduction to NGS analysis methods](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%202/Intro%20to%20NGS%20analysis%20-%20Richard%20Smith.pdf?raw=true) | RSU  |
-| 0945 - 1030hrs| [Approaches to sequence mapping and genotyping](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%202/Mapping_and_Genotyping_Approaches.pdf?raw=true) | SM  |
+| 0900 - 0945hrs| [Introduction to genomics experimental design]() | JA  |
+| 0945 - 1030hrs| [Introduction to NGS analysis methods]() | RSU  |
 |               | Break                                          |     |
-| 1100 - 1300hrs| [R graphics](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%202/R%20graphics%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
+| 1100 - 1230hrs| [Practical: Unix and shell scripting]() | MW  |
 |               | Lunch                                          |     |
-| 1400 - 1530hrs| [Unix basics](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%202/unix_primer.pdf?raw=true) | RSU  |
+| 1330 - 1530hrs| [Practical: R data structures]() | JA  |
 |               | Break                                          |     |
-| 1600 - 1730hrs| Small groups project time |   |
-| 1900hrs| Course dinner |   |
+| 1600 - 1700| [Practical: Mendeley, literature management and social media]() | SH  |
+| 1700 - 1800hrs| Small groups project time |   |
 
 
 ### Wednesday
 
 | Time          | Subject                                           |     |
 |---------------|------------------------------------------------|-----|
-| 0900 - 0945hrs| [De novo sequence assembly](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%203/Assembly%20-%20Benard%20Kulohoma.pdf?raw=true) | BK  |
-| 0945 - 1030hrs| [Approaches to transcriptome analysis](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%203/Transcriptome%20analysis%20-%20Jelena%20Aleksic.pdf?raw=true) | JA  |
-|               | Break                                          |     |
-| 1100 - 1300hrs| [De novo sequence assembly](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%203/Assembly%20practica%20-%20Benard%20Kulohoma.pdf?raw=true) | BK, RSU  |
-|               | Lunch                                          |     |
-| 1400 - 1530hrs| [RNAseq differential expression analysis](https://github.com/jelena121/NGS_analysis_icipe/tree/master/day%203/RNAseq_practical) | JA  |
-|               | Break                                          |     |
-| 1600 - 1730hrs| Small groups project time |   |
+| 0900 - 0945hrs| [Approaches to sequence mapping and genotyping]() | SM  |
+| 0945 - 1030hrs| [Approaches to transcriptome analysis]() | JA,MW  |
+|               | Break / View Inqaba Biotec displays                                          |     |
+| 1100 - 1300hrs| [Practical: RNAseq QC and differential expression analysis]() | JA,MW  |
+|               | Lunch / View Inqaba Biotec displays                                          |     |
+| 1400 - 1530hrs| [Mentoring sessions]() | JA  |
+|               | Break / View Inqaba Biotec displays                                          |     |
+| 1600 - 1700hrs| Inqaba Biotec - East Africa |   |
+| 1700 - 1800hrs| Small groups project time |   |
+| 1900hrs| Course dinner |   |
 
 
 ### Thursday
 
 | Time          | Subject                                           |     |
 |---------------|------------------------------------------------|-----|
-| 0900 - 0945hrs| [Variant calling for disease diagnostics](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%204/Variant%20Calling%20-%20Nicola%20Whiffin.pdf?raw=true) | NW  |
-| 0945 - 1030hrs| [Introduction to GWAS and meta-analyses](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%204/GWAS%2C%20meta-analysis%20and%20imputation%20-%20Nicola%20Whiffin.pdf) | NW  |
+| 0900 - 0945hrs| [De novo sequence assembly ]() | RSU  |
+| 0945 - 1030hrs| [Plant synthetic biology ]() | RSU  |
 |               | Break                                          |     |
-| 1100 - 1230hrs| [Variant filtering and annotation](https://github.com/jelena121/NGS_analysis_icipe/tree/master/day%204/FilteringAnnotationPractical) | NW |
+| 1100 - 1300hrs| [Practical: De novo sequence assembly]() | BK |
 |               | Lunch                                          |     |
-| 1330 - 1430hrs| [Quality control of GWAS data](https://github.com/jelena121/NGS_analysis_icipe/tree/master/day%204/GWASPractical) | NW  |
+| 1400 - 1530hrs| [Practical: Data visualisation in R using ggplot2]() | RSU  |
 |               | Break                                          |     |
-| 1500 - 1600hrs| Guest lecture: Joy Owango from [TCC](http://www.tcc-africa.org/tcc/) |   |
 | 1600 - 1730hrs| Small groups project time |   |
 
 ### Friday
 
 | Time          | Subject                                           |     |
 |---------------|------------------------------------------------|-----|
-| 0900 - 0945hrs| [Comparative and phylogenomics](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%205/Comparative_and_Phylogenomics.pdf?raw=true) | SM  |
-| 0945 - 1030hrs| [Evolutionary and population genomics](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%205/Population_Genomics.pdf?raw=true) | SM  |
+| 0900 - 0930hrs| [Introduction to GWAS and Variant Calling]) | RG  |
+| 0930 - 1030hrs| [Practical: From raw reads to aligned data]() | RG  |
 |               | Break                                          |     |
-| 1100 - 1200hrs| [Population genomics - RAD gene flow tutorial](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%205/RAD_gene_flow_tutorial.tar.gz?raw=true) | SM, AF |
-| 1100 - 1200hrs| [Population genomics - sliding windows tutorial](https://github.com/jelena121/NGS_analysis_icipe/blob/master/day%205/sliding_windows_tutorial.tar.gz?raw=true) | SM, AF |
+| 1100 - 1200hrs| [Practical: From aligned data to Variants called]() | RG |
 |               | Lunch                                          |     |
-| 1400 - 1530hrs| [gglot2 practical](http://www.ling.upenn.edu/~joseff/avml2012/) | RSU  |
+| 1400 - 1530hrs| [Practical: Filtering Variants]() | RG  |
 |               | Break                                          |     |
-| 1600 - 1640hrs| Student presentations about research projects |   |
-| 1640 - 1730hrs| Course discussions, certificate presentation and vote of thanks |   |
+| 1600 - 1730hrs| Small groups project time |   |
+
+### Saturday
+
+| Time          | Subject                                           |     |
+|---------------|------------------------------------------------|-----|
+| 0900 - 0945hrs| [Evolutionary genomics analysis approaches]) | SM  |
+| 0945 - 1030hrs| [Introduction to comparative genomics approaches]() | SM  |
+|               | Break                                          |     |
+| 1100 - 1200hrs| [Practical: Multiple sequence alignment and cross species comparisons]() | SM |
+|               | Lunch                                          |     |
+| 1230 - 1400hrs| [Practical: Population genetics]() | SM  |
+| 1400 - 1500hrs| [Student presentations about research projects. 10 mins per group for presentation and questions.]() |  |
+|               | Break                                          |     |
+| 1530 - 1600hrs| Informal course discussions and certificate presentation and vote of thanks! |   |
