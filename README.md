@@ -27,7 +27,7 @@ Instructors:
 | 0915 - 1000hrs| [Introduction to big data](https://github.com/jelena121/NGS_analysis_icipe/raw/master/day%201/intro_to_big_data_3o_Nov.pdf) | RM  |
 | 1000 - 1040hrs| [Overview of different types of next generation sequencing](https://github.com/jelena121/NGS_analysis_icipe/raw/master/day%201/NGS_Kelvin_26_11_2015.pptx) | KM  |
 |               | Break                                          |     |
-| 1100 - 1300hrs| [Unix basics]() | JA  |
+| 1100 - 1300hrs| [Unix basics](http://rik.smith-unna.com/command_line_bootcamp/) | MW  |
 |               | Lunch                                          |     |
 | 1400 - 1530hrs| [Introduction to R](https://github.com/jelena121/NGS_analysis_icipe/raw/master/day%201/R%20introduction%20-%20Jelena%20Aleksic.pdf) | JA  |
 |               | Break                                          |     |
@@ -41,7 +41,7 @@ Instructors:
 | 0900 - 0945hrs| [Introduction to genomics experimental design]() | JA  |
 | 0945 - 1030hrs| [Introduction to NGS analysis methods]() | RSU  |
 |               | Break                                          |     |
-| 1100 - 1230hrs| [Practical: Unix and shell scripting]() | MW  |
+| 1100 - 1230hrs| [Practical: Unix and shell scripting](http://rik.smith-unna.com/command_line_bootcamp/) | MW  |
 |               | Lunch                                          |     |
 | 1330 - 1530hrs| [Practical: R data structures]() | JA  |
 |               | Break                                          |     |
